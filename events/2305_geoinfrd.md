@@ -35,6 +35,8 @@ When own computer is not enough:
 * Data availability
 * Collaboration possibility
 
+# Puhti, Mahti, LUMI ?
+
 # Get access
 
 Working at Finnish University / Univeristy of applied Sciences / state research institute? -> Free of charge
@@ -44,16 +46,6 @@ Working at Finnish University / Univeristy of applied Sciences / state research 
 2. Find a senior researcher / PI to create (a personal account for themselves and) and CSC project
 3. Ask above person to add you to the project and add needed services
 4. Read the documentation about the service in question: https://docs.csc.fi
-
-# MyCSC
-
-* Manage your account
-* Manage your projects/services
-* Estimate billing units
-* Change password
-* ...
-
-[`https://my.csc.fi`](https://my.csc.fi)
 
 # Challenges
 
@@ -66,11 +58,18 @@ Instead, continually learn and know when to ask for help.`"
 </p>
 
 * Linux and commandline
-* get to know new system and concepts
-* possibly new software/ways of working
-* queuing system
-* data transfer bottleneck
+* Get to know new system and concepts
+* Possibly new software/ways of working
+* Queuing system in supercomputers
+* Data transfer
 * ...
+
+# Examples
+
+[Geocomputing examples on github](https://github.com/csc-training/geocomputing)
+
+* Using R/Python/command line tools on the supercomputer
+* Setting up a Virtual Machine with geoserver/metashape/...
 
 # Training
 
@@ -81,6 +80,14 @@ Instead, continually learn and know when to ask for help.`"
 
 <br><br>
 -> follow our [training calendar](https://www.csc.fi/en/training#training-calendar)
+
+# Guides and Tutorials
+
+[https://docs.csc.fi/support/tutorials/](https://docs.csc.fi/support/tutorials/)
+
+
+* [Earth Observation guide](https://docs.csc.fi/support/tutorials/gis/eo_guide/)
+* [Machine Learning guide](https://docs.csc.fi/support/tutorials/ml-guide/)
 
 # How we can help
 
@@ -97,10 +104,4 @@ Instead, continually learn and know when to ask for help.`"
 
 [Speed up your request](https://docs.csc.fi/support/support-howto/)
 
-# News
 
-* EO and ML guide
-* LUMI
-    * for research and businesses
-* Geocomputing
-* STAC
