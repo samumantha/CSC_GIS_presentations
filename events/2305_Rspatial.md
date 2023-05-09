@@ -1,6 +1,7 @@
 ---
 lang:   en
 theme: csc-2019
+
 ---
 
 # Mini-intro to possibilities of using R in CSC's supercomputer Puhti {.title}
@@ -23,7 +24,7 @@ Samantha Wittke, CSC (Geoinformatics specialist)
 <div class="column">
 
 <p align="center">
-  <img src="../images/kajaani.png" width=95%">
+  <img src="/home/samwitt/git/CSC_GIS_presentations/images/kajaani.png" width=95%">
 
 </p>
 
@@ -78,7 +79,7 @@ Main differences to own computer:
 # Puhti supercomputer - Basics
 
 <p align="center">
-  <img src="images/puhti_overview.png" width="50%">
+  <img src="/home/samwitt/git/CSC_GIS_presentations/images/puhti_overview.png" width="50%">
 </p>
 
 # Puhti supercomputer - Applications
@@ -106,7 +107,7 @@ Main differences to own computer:
 * Zonation
 * Deep learning: pytorch, tensorflow
 
- Something missing?
+ **Something missing?**
       Ask us :)
       servicedesk@csc.fi
 </div>
@@ -151,17 +152,23 @@ Main differences to own computer:
 
 # Running your own R script in Puhti
 
-(0. Get CSC user account)
+0. Get CSC user account.
 1. Log in to Puhti web interface (www.puhti.csc.fi).
 2. Move your data and scripts to Puhti.
 3. Open RStudio.
-4. Check R package availability (https://docs.csc.fi/apps/r-env-for-gis/)
-	* If needed, install it yourself or ask CSC - servicedesk@csc.fi
+4. Check R package availability.
 5. Fix paths of your input/output files.
 6. Test your script with some test data.
+
+...
+
+# Make use of the power of Puhti
+
+...
+
 7. Write a batch job script.
 8. Run your scripts with all data as batch job (or interactively)
-(9. Make use of several cores using future package in your R code.)
+9. Make use of several cores using future package in your R code, if needed.
 
 # "My R code runs slow, what can be done?"
 
@@ -170,19 +177,21 @@ Main differences to own computer:
 * Different R packages may provide same functions but are implemented differently (i.e. run faster/slower)
     * e.g. prefer `sf` over `sp` and `terra` over `raster`. 
 * Always be suspicious of for-loops!
-* Going parallel may help
-* Unfortunately, increasing the number of cores will never decrease the time needed in the same proportion
+* Consider parallelization
+* Understand that number of cores != multiplier of speedup
 
 # Parallelization locally and on the supercomputer
 
 **Within R:**
-* use package future
-* or snow, foreach, Rmpi,...
+
+* use package `future`
+* or `snow`, `foreach`, `Rmpi`,...
 
 <br><br>
 
 **Outside R:**
-* gnuparallel
+
+* `GNUparallel`
 * other workflow tools can also be use, see [CSC High Throughput Computing documentation](https://docs.csc.fi/computing/running/throughput/)
 
 
