@@ -33,22 +33,26 @@ Samantha Wittke, CSC (Geoinformatics specialist)
 # CSC services
 
 [`research.csc.fi/en/service-catalog`](https://research.csc.fi/en/service-catalog)
+
 <br></br>
 <div class="column">
 **Compute & Analyze**
 
-  - cPouta / ePouta / Rahti -> Cloud 
-  - Puhti / Mahti / LUMI -> Supercomputers
-  - CSC Notebooks
-  - Sensitive Data (SD) services
+* <p style="font-size:40px;"> Webservices, virtual machines in the cloud: `cPouta / ePouta / Rahti` </p>
+* <p style="font-size:40px;"> Heavy computations on the supercomputer: `Puhti / Mahti / LUMI` </p>
+* <p style="font-size:40px;"> Teaching and collaborating: `CSC Notebooks` </p>
 </div>
 <div class="column">
 **Store, Share & Publish Data**
 
-  * Allas -> Object storage
-  * Fairdata
-  * Paituli
+* <p style="font-size:40px;"> Project lifetime data storage: `Allas` </p>
+* <p style="font-size:40px;"> Share and publish data: `Fairdata`</p>
+* <p style="font-size:40px;"> Share and publish geospatial data: `Paituli`</p>
 </div>
+
+<br>
+
+<div><p style="font-size:40px;">Working with privacy related data: `Sensitive Data (SD) services`</p></div>
 
 # Why use CSC services?
 
@@ -71,10 +75,10 @@ Main differences to own computer:
 
 * Use more memory/CPU/GPU than your own computer has available <br>
 <br>
--> analyse large files, Machine learning model training
+<p> &rarr; analyse large files, Machine learning model training </p>
 <br>
 * Speed up so called *embarrassingly parallel* analyses (many identical, but separate tasks) <br><br>
--> doing same thing to multiple map tiles/ data chunks
+<p> &rarr; doing same thing to multiple map tiles/ data chunks </p>
 
 # Puhti supercomputer - Basics
 
@@ -119,7 +123,7 @@ Main differences to own computer:
 * [General r-env documentation](https://docs.csc.fi/apps/r-env/)
 * [Running R scripts on Puhti- self learning examples](https://github.com/csc-training/geocomputing/tree/master/R)
 
--> [Instructions on additional R package installation in CSC docs](https://docs.csc.fi/apps/r-env/#r-package-installations)
+<p> &rarr; [Instructions on additional R package installation in CSC docs](https://docs.csc.fi/apps/r-env/#r-package-installations) </p>
 
 
 # Puhti supercomputer - Data availability
@@ -205,7 +209,7 @@ Main differences to own computer:
 * [CSC geoinformatics training materials](https://research.csc.fi/gis-learning-materials)
 
 <br><br>
--> follow our [training calendar](https://www.csc.fi/en/training#training-calendar)
+<p> &rarr; follow our [training calendar](https://www.csc.fi/en/training#training-calendar) </p>
 
 # How we can help
 
@@ -216,9 +220,9 @@ Main differences to own computer:
 * Training/example wishes
 
 <br></br>
-**-> servicedesk@csc.fi**
+<p> &rarr; servicedesk@csc.fi </p>
 <br></br>
-**-> [Weekly user support coffe break](https://ssl.eventilla.com/usersupportcoffee)**
+<p> &rarr; [Weekly user support coffe break](https://ssl.eventilla.com/usersupportcoffee) </p>
 
 [Speed up your request](https://docs.csc.fi/support/support-howto/)
 
