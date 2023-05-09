@@ -8,6 +8,7 @@ For example with EuroCC Pandoc:
 
 ## Content
 
+* 2305_geoinfrd.md : Geoinformatics research days presentation in 05.23
 * 2305_Rspatial.md: R on Puhti intro presentation for "Spatial Data analysis with R" course on 10.-12.05.23
 * 2303_Aalto_parallel_py.md : Presentation for Aalto geoinformatics project course in 03.23
 * 2301_FRSD.md : Finnish Remote Sensing Days presentation on 19.01.23
