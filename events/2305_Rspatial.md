@@ -211,20 +211,38 @@ Main differences to own computer:
 <br><br>
 <p> &rarr; follow our [training calendar](https://www.csc.fi/en/training#training-calendar) </p>
 
-# How we can help
+# 4. Support
 
-* 'Z is not working as expected'
-* 'My code gives error Y'
-* 'Can A be installed to Puhti?'
-* 'Any advice how to do X?'
-* Training/example wishes
 
-<br></br>
-<p> &rarr; servicedesk@csc.fi </p>
-<br></br>
-<p> &rarr; [Weekly user support coffe break](https://ssl.eventilla.com/usersupportcoffee) </p>
+[`docs.csc.fi`](https://docs.csc.fi)
 
-[Speed up your request](https://docs.csc.fi/support/support-howto/)
+[`research.csc.fi`](https://research.csc.fi)
+
+<br>
+
+\+ servicedesk@csc.fi
+
+\+ User support session in Zoom every Wednesday at 14.00
+
+# 4.1 How we can help
+
+<div class="column">
+
+<p align="center">
+  <img src="/home/samwitt/git/CSC_GIS_presentations/images/help_bubbles.drawio.svg" width="75%">
+</p>
+
+<p><b>&rarr; servicedesk@csc.fi</b></p> 
+</div>
+
+<div class="column">
+
+<p align="center">
+  <img src="/home/samwitt/git/CSC_GIS_presentations/images/project_partner.drawio.svg" width="75%">
+</p>
+
+<p><b>&rarr;CSC as project partner / subcontractor</b></p> 
+</div>
 
 # Summary - Why use a supercomputer?
 
