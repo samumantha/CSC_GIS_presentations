@@ -121,8 +121,9 @@ Geoinformatics research days 2023
 
 <br>
 
+* Co-funded by EuroHPC JU and LUMI consortium countries
 * Research + industry and SME access
-* `~100 000`  AMD EPYK CPUs
+* `~100 000` AMD EPYK CPUs
 * `~10 000` AMD MI250X GPUs
 * Some pre-installed software
 </div>
@@ -197,3 +198,12 @@ Geoinformatics research days 2023
   * [Visit courses, webinars, workshops](https://www.csc.fi/en/training)
 * Ask for help, if needed, we don't bite :)
 
+# Link to slideset
+
+<br>
+<p align="center">
+[https://a3s.fi/gis-workshops/2305_geoinfrd.pdf](https://a3s.fi/gis-workshops/2305_geoinfrd.pdf)
+
+<img src="/home/samwitt/git/CSC_GIS_presentations/images/qr_geoinfrd23.png" width="30%">
+
+</p>
