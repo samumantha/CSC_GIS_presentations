@@ -30,5 +30,5 @@ Samantha Wittke, CSC (Geoinformatics specialist)
 
 * Longer talk tomorrow
 * Geocomputing course 12.+13. October 
-* servicedesk@csc.fi
+* Questions? -> servicedesk@csc.fi
 
