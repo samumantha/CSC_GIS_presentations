@@ -4,9 +4,8 @@ theme: csc-2019
 ---
 
 # Support for your computational research {.title}
-## Geospatial challengecamp kickoff 26.09.23 {.subtitle}
 
-Samantha Wittke, CSC (Geoinformatics specialist)
+Samantha Wittke, CSC (Geoinformatics specialist), Geospatial challengecamp kickoff 26.09.23 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
 # Outline
@@ -98,7 +97,7 @@ Instead, continually learn and know when to ask for help.`"
 </p>
 
 <p align="center">
-  <img src="../images/puhti_webinterface.png" width="55%">
+  <img src="../images/puhti_webinterface_overview.png" width="55%">
 </p>
 
 
@@ -217,12 +216,15 @@ Instead, continually learn and know when to ask for help.`"
 Supercomputer != laptop
 </p>
 
--> Geocomputing course 12.+13. October 2023
+<br><br>
+
+&rarr; Geocomputing course 12.+13. October 2023
 
 
 # Data - Acquisition
 
 Non-CSC services: 
+
 
 * Paikkatietohakemisto.fi
 * avoindata.fi
@@ -230,14 +232,16 @@ Non-CSC services:
 
 # Data - Acquisition
 
-* FAIRDATA services
--> Paituli spatial data download service
+<br><br>
+
+FAIRDATA services
+&rarr; Paituli spatial data download service
 
 # Data - Storage
 
 * On disk for frequent use
 * Object storage Allas
-* FAIRDATA services
+
 
 # Allas object storage
 
@@ -262,9 +266,14 @@ Non-CSC services:
 # Mentoring
 
 Email to: 
+<p align="center">
 
 servicedesk@csc.fi
 CC: giscoord@csc.fi
+
+</p>
+
+<br><br>
 
 We are happy to offer mentoring sessions: 
 * technical level

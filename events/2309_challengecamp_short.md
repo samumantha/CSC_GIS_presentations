@@ -4,9 +4,9 @@ theme: csc-2019
 ---
 
 # Support for your computational research {.title}
-## Geospatial challengecamp kickoff 25.09.23 {.subtitle}
 
-Samantha Wittke, CSC (Geoinformatics specialist)
+
+Samantha Wittke, CSC (Geoinformatics specialist), Geospatial challengecamp kickoff 25.09.23
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
 # Outline
@@ -41,16 +41,31 @@ Samantha Wittke, CSC (Geoinformatics specialist)
 
 # Computing services for research
 
+<br><br>
 * Collaborate
 * Scale up your computations 
 * Work in the cloud
 * Comfortable computing environments for collaboration and courses
 
 
-# Computing services for industry
+# Computing services for industry - LUMI
 
-* Supercomputer LUMI also available for SMEs
-* ~ 100k CPUS, ~10k GPUs
+<div class="column">
+
+<p align="center">
+  <img src="../images/lumi2.jpg" width="95%">
+</p>
+</div>
+
+<div class="column">
+
+<br>
+
+* Research + industry and SME access
+* `~100 000`  AMD EPYK CPUs
+* `~10 000` AMD MI250X GPUs
+* Some pre-installed software
+</div>
 
 # Data
 
