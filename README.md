@@ -4,7 +4,7 @@
 
 For example with EuroCC Pandoc:
 
-`pandoc-eurocc.sif -s xxx.md -o xxx.html`
+`pandoc-eurocc.sif -s xxx.md -o xxx.html` (pandoc needs to be in same place as md files; omitting `-o` returns the output in same place with same name ending in html)
 
 ## Content
 
