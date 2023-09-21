@@ -45,6 +45,22 @@ Samantha Wittke, CSC (Geoinformatics specialist)
 * “Outsource” heavy/specialized computations
 * **Free of charge** for open science Finnish universities and research institutes
 
+# Skills
+
+<p align="center">
+
+"`You can’t learn everything you need all at once.
+Instead, continually learn and know when to ask for help.`"
+<br> - Aalto Scientific Computing
+
+</p>
+
+* Linux and commandline
+* Get to know new system and concepts
+* Possibly new software/ways of working
+* Data transfer 
+* ...
+
 # Supercomputers
 
 <br><br><br>
@@ -203,7 +219,53 @@ Supercomputer != laptop
 
 -> Geocomputing course 12.+13. October 2023
 
-# Data
 
+# Data - Acquisition
 
+Non-CSC services: 
 
+* Paikkatietohakemisto.fi
+* avoindata.fi
+* Statistics Finland paikkatietoainesto
+
+# Data - Acquisition
+
+* FAIRDATA services
+-> Paituli spatial data download service
+
+# Data - Storage
+
+* On disk for frequent use
+* Object storage Allas
+* FAIRDATA services
+
+# Allas object storage
+
+* Object storage 
+* Data gateway to CSC environment
+* Up to 200TB for free
+* Connected to CSC project
+* Project lifetime data storage
+* Some tools support direct read from Allas
+* NOT a file system, data management environment, backup service
+
+# Training
+
+* ['CSC computing environment' self-study course](https://ssl.eventilla.com/csccompenvselflearn)
+* ['Research data management' self-study course](https://ssl.eventilla.com/event/v8B6B)
+* [CodeRefinery materials for FAIR research software development practices](https://coderefinery.org/lessons/core/)
+* [CSC geoinformatics training materials](https://research.csc.fi/gis-learning-materials)
+
+<br><br>
+-> follow our [training calendar](https://www.csc.fi/en/training#training-calendar)
+
+# Mentoring
+
+Email to: 
+
+servicedesk@csc.fi
+CC: giscoord@csc.fi
+
+We are happy to offer mentoring sessions: 
+* technical level
+* service and tools choice
