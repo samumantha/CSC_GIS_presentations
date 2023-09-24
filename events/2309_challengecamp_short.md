@@ -3,7 +3,7 @@ lang:   en
 theme: csc-2019
 ---
 
-# Support for your computational research {.title}
+# CSC computing resources {.title}
 
 
 Samantha Wittke, CSC (Geoinformatics specialist), <br>
@@ -124,12 +124,34 @@ Geospatial challengecamp kickoff 25.09.23 <br>
 
 </div>
 
-# Where to go from here?
 
+# Thank you for your attention! 
+<div class="column">
+
+
+Where to go from here?
 
 * Longer talk tomorrow
 * Geocomputing course 12.+13. October 
-* Questions? &rarr; servicedesk@csc.fi
+* Questions? &rarr; `servicedesk@csc.fi`
 
 
+<br>
+
+<p align="center">
+  <img src="../images/csc.png">
+</p>
+
+</div>
+
+<div class="column">
+
+
+<p align="center">
+  <img src="../images/geoportti.png">
+</p>
+<p align="center">
+  <img src="../images/lih.png">
+</p>
+</div>
 

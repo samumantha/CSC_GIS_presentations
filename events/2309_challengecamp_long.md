@@ -3,9 +3,9 @@ lang:   en
 theme: csc-2019
 ---
 
-# Support for your computational research {.title}
+# Overview of CSC geocomputing resources {.title}
 
-Samantha Wittke, CSC (Geoinformatics specialist), Geospatial challengecamp kickoff 26.09.23 
+Samantha Wittke, CSC (Geoinformatics specialist),<br> Geospatial challengecamp kickoff 26.09.23 <br>
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
 # Outline
@@ -13,6 +13,8 @@ Samantha Wittke, CSC (Geoinformatics specialist), Geospatial challengecamp kicko
 1. CSC service overview
 2. Supercomputers
 3. Data
+4. Training and support
+5. Mentoring
 
 # CSC services
 
@@ -44,21 +46,19 @@ Samantha Wittke, CSC (Geoinformatics specialist), Geospatial challengecamp kicko
 * “Outsource” heavy/specialized computations
 * **Free of charge** for open science Finnish universities and research institutes
 
-# Skills
 
-<p align="center">
+# Why use a supercomputer?
 
-"`You can’t learn everything you need all at once.
-Instead, continually learn and know when to ask for help.`"
-<br> - Aalto Scientific Computing
+<p style="font-size:40px;">&#8987; Resource needs (time, memory, storage, GPU)</p>
+<p style="font-size:40px;">&#128126; “Outsource” heavy computations, keep own computer free</p>
+<p style="font-size:40px;">&#127960; Prebuilt environments, application availability</p>
+<p style="font-size:40px;">&#128202; Run many experiments at same time</p>
+<p style="font-size:40px;">&#127760; Data availability</p>
+<p style="font-size:40px;">&#128101; Collaboration possibility</p>
+<p style="font-size:40px;">&#10067; CSC specialist support</p>
+<p style="font-size:40px;">&#128184; Free of charge for open science at Finnish universities and research institutes.</p>
 
-</p>
 
-* Linux and commandline
-* Get to know new system and concepts
-* Possibly new software/ways of working
-* Data transfer 
-* ...
 
 # Supercomputers
 
@@ -198,60 +198,107 @@ Instead, continually learn and know when to ask for help.`"
 * Some pre-installed software
 </div>
 
-# Why use a supercomputer?
+# Skills
 
-<p style="font-size:40px;">&#8987; Resource needs (time, memory, storage, GPU)</p>
-<p style="font-size:40px;">&#128126; “Outsource” heavy computations, keep own computer free</p>
-<p style="font-size:40px;">&#127960; Prebuilt environments, application availability</p>
-<p style="font-size:40px;">&#128202; Run many experiments at same time</p>
-<p style="font-size:40px;">&#127760; Data availability</p>
-<p style="font-size:40px;">&#128101; Collaboration possibility</p>
-<p style="font-size:40px;">&#10067; CSC specialist support</p>
-<p style="font-size:40px;">&#128184; Free of charge for open science at Finnish universities and research institutes.</p>
+<p align="center">
 
+"`You can’t learn everything you need all at once.
+Instead, continually learn and know when to ask for help.`"
+<br> - Aalto Scientific Computing
+
+</p>
+<br>
+
+* <p style="font-size:40px;">Linux and commandline</p>
+* <p style="font-size:40px;">Get to know new system and concepts</p>
+* <p style="font-size:40px;">Possibly new software / ways of working</p>
+* <p style="font-size:40px;">Data transfer </p>
+* <p style="font-size:40px;">...</p>
 
 # Harnessing the power
 
-<p align="center">
+<div class="column">
+
 Supercomputer != laptop
-</p>
+
 
 <br><br>
 
-&rarr; Geocomputing course 12.+13. October 2023
+&rarr; [Geocomputing course 12.+13. October 2023](https://challenge-camp.geoportti.fi/en/latest/tabs/schedule.html#data-science-training-at-csc)
+</div>
 
+<div class="column">
+
+
+
+<p align="center">
+  <img src="../images/cc_reg.png" width="95%">
+</p>
+</div>
 
 # Data - Acquisition
+
+<div class="column">
 
 Non-CSC services: 
+<br>
 
-
-* Paikkatietohakemisto.fi
-* avoindata.fi
+* `paikkatietohakemisto.fi`
+* `avoindata.fi`
 * Statistics Finland paikkatietoainesto
+
+</div>
+<div class="column">
+
+
+
+<p align="center">
+  <img src="../images/pth.png" width="95%">
+</p>
+</div>
 
 # Data - Acquisition
 
-<br><br>
 
-FAIRDATA services
-&rarr; Paituli spatial data download service
+<div class="column">
+<br>
+
+FAIRDATA services<br><br>
+&rarr; Paituli spatial data download service<br>
+`paituli.csc.fi`
+
+</div>
+<div class="column">
+
+<p align="center">
+  <img src="../images/paituli.png" width="75%">
+</p>
+
+</div>
 
 # Data - Storage
 
-* On disk for frequent use
+<div class="column">
+
+
+* On disk for frequent use <br>
+
 * Object storage Allas
+  * Data gateway to CSC environment
+  * Up to 200TB for free
+  * Project lifetime storage
+  * Some tools support direct read from Allas
+  * NOT a file system, data management environment, backup service
 
+</div>
 
-# Allas object storage
+<div class="column">
 
-* Object storage 
-* Data gateway to CSC environment
-* Up to 200TB for free
-* Connected to CSC project
-* Project lifetime data storage
-* Some tools support direct read from Allas
-* NOT a file system, data management environment, backup service
+<p align="center">
+  <img src="../images/CSC_service_icon_allas.png" width="95%">
+</p>
+</div>
+
 
 # Training
 
@@ -261,20 +308,69 @@ FAIRDATA services
 * [CSC geoinformatics training materials](https://research.csc.fi/gis-learning-materials)
 
 <br><br>
--> follow our [training calendar](https://www.csc.fi/en/training#training-calendar)
+&rarr; follow our [training calendar](https://www.csc.fi/en/training#training-calendar)
+
+# Support
+
+
+[`docs.csc.fi`](https://docs.csc.fi)
+
+[`research.csc.fi`](https://research.csc.fi)
+
+[`github.com/csc-training/geocomputing`](https://github.com/csc-training/geocomputing)
+
+<br>
+
+\+ servicedesk@csc.fi
+
+\+ User support session in Zoom every Wednesday at 14.00
 
 # Mentoring
 
-Email to: 
-<p align="center">
+<div class="column">
 
-servicedesk@csc.fi
+<br>
+
+Email to: <br><br>
+
+servicedesk@csc.fi<br>
 CC: giscoord@csc.fi
 
+
+</div>
+
+<div class="column">
+
+<br>
+
+We are happy to offer mentoring sessions: <br><br>
+
+* Technical level
+* Service and tools choice
+</div>
+
+# Thank you for your attention! 
+<div class="column">
+
+<br>
+
+<p>Questions? &rarr; ask now or contact `servicedesk@csc.fi` </p>
+
+<br>
+
+<p align="center">
+  <img src="../images/csc.png">
 </p>
 
-<br><br>
+</div>
 
-We are happy to offer mentoring sessions: 
-* technical level
-* service and tools choice
+<div class="column">
+
+
+<p align="center">
+  <img src="../images/geoportti.png">
+</p>
+<p align="center">
+  <img src="../images/lih.png">
+</p>
+</div>
