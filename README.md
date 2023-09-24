@@ -4,10 +4,11 @@
 
 For example with EuroCC Pandoc:
 
-`pandoc-eurocc.sif -s xxx.md -o xxx.html`
+`pandoc-eurocc.sif -s xxx.md -o xxx.html` (pandoc needs to be in same place as md files; omitting `-o` returns the output in same place with same name ending in html)
 
 ## Content
 
+* 2309_challengecamp_*.md : Geospatial Challengecamp short and long presentations on 25. + 26.09.23
 * 2305_geoinfrd.md : Geoinformatics research days presentation in 05.23
 * 2305_Rspatial.md: R on Puhti intro presentation for "Spatial Data analysis with R" course on 10.-12.05.23
 * 2303_Aalto_parallel_py.md : Presentation for Aalto geoinformatics project course in 03.23
