@@ -65,6 +65,7 @@ Geospatial challengecamp kickoff 25.09.23 <br>
 
 <div class="column">
 
+<br>
 <p align="center">
   <img src="../images/lumi2.jpg" width="95%">
 </p>
@@ -74,6 +75,8 @@ Geospatial challengecamp kickoff 25.09.23 <br>
 
 <br>
 
+* Funded by EuroHPCJU 
+* Hosted by LUMI consortium countries
 * Research + SME access
 * `~100 000`  AMD EPYK CPUs
 * `~10 000` AMD MI250X GPUs
@@ -89,7 +92,7 @@ Geospatial challengecamp kickoff 25.09.23 <br>
 * Share data with collaborators
 <br><br>
 
-* Spatial data download service: `Paituli.csc.fi``
+* Spatial data download service: `Paituli.csc.fi`
 * Spatio Temporal Asset Catalog (STAC)
 
 </div>
