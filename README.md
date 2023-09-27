@@ -1,6 +1,5 @@
 # CSC Geoinformatics presentations
 
-
 > [!NOTE]
 > Work in progress
 
