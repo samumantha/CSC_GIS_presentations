@@ -3,7 +3,6 @@
 > [!NOTE]
 > Work in progress
 
-
 ## How to build
 
 For example with EuroCC Pandoc:
