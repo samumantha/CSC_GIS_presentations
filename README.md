@@ -1,7 +1,7 @@
 # CSC Geoinformatics presentations
 
-[!NOTE]
-Work in progress
+> [!NOTE]
+> Work in progress
 
 ## How to build
 
