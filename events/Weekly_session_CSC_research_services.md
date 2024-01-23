@@ -48,10 +48,10 @@ Samantha Wittke, CSC (Geoinformatics specialist)
 
 * Jupyter and RStudio for courses + public applications for self-learning: [CSC Notebooks](https://notebooks.rahtiapp.fi/welcome)
 * Finding and sharing teaching materials: [Library of Open Educational Resources](https://aoe.fi/)
-* Get a ["course project"](https://docs.csc.fi/accounts/how-to-create-new-project/#course) for use of CSC services in teaching 
+* Get a ["course project"](https://docs.csc.fi/accounts/how-to-create-new-project/#course) / ["student project"](https://docs.csc.fi/support/tutorials/student_quick/) for use of CSC services in teaching/learning
   * Make use of supercomputers, e.g. [Jupyter for Courses](https://docs.csc.fi/computing/webinterface/jupyter-for-courses/)
-  * Host own (executable) course webpage, or virtual machines in CSC cloud
-  * Store course releated data in Allas
+  * Host own (executable) webpage, or virtual machines in CSC cloud
+  * Store course/learning releated data in Allas
  
  -> Short talk "CSC cloud services for education" on 07.02.24
 
