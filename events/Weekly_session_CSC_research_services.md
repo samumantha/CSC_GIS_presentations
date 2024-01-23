@@ -26,11 +26,6 @@ Samantha Wittke, CSC (Geoinformatics specialist)
 * Bioinformatics data analysis tools: [Chipster](https://research.csc.fi/-/chipster) 
 * Software for computational modeling of physical phenomena: [Elmer](https://www.csc.fi/web/elmer)
 
-# Services for teaching
-
-* Supercomputers, e.g. [Jupyter for Courses](https://docs.csc.fi/computing/webinterface/jupyter-for-courses/) 
-* Jupyter and RStudio for courses + public applications for self-learning: [CSC Notebooks](https://notebooks.rahtiapp.fi/welcome)
-* Finding and sharing teaching materials: [Library of Open Educational Resources](https://aoe.fi/)
 
 # Data services
 
@@ -46,6 +41,16 @@ Samantha Wittke, CSC (Geoinformatics specialist)
 * Federated European Genome-phenome Archive: [FEGA](https://research.csc.fi/-/fega)
 * Language bank [Kielipankki](https://www.kielipankki.fi/language-bank/)
 * Spatial data sharing and download: [Paituli](https://paituli.csc.fi/)
+
+
+# Services for teaching
+
+* Jupyter and RStudio for courses + public applications for self-learning: [CSC Notebooks](https://notebooks.rahtiapp.fi/welcome)
+* Finding and sharing teaching materials: [Library of Open Educational Resources](https://aoe.fi/)
+* Get a ["course project"](https://docs.csc.fi/accounts/how-to-create-new-project/#course) for use of CSC services in teaching 
+  * Make use of supercomputers, e.g. [Jupyter for Courses](https://docs.csc.fi/computing/webinterface/jupyter-for-courses/)
+  * Host own (executable) course webpage, or virtual machines in CSC cloud
+  * Store course releated data in Allas
 
 # Free of charge usecases
 
