@@ -32,7 +32,7 @@ Samantha Wittke, CSC (Geoinformatics specialist)
 
 * Project lifetime data storage: [Allas](https://research.csc.fi/-/allas)
 * Databases: [Pukki](https://docs.csc.fi/cloud/dbaas/) ([Kaivos](https://research.csc.fi/-/kaivos))
-* Publishing, storing or downloading open data: [OKM Fairdata](https://www.fairdata.fi/en/): IDA, Etsin, Qvain, PAS
+* Publishing (with access management), storing or downloading open data: [OKM Fairdata](https://www.fairdata.fi/en/): IDA, Etsin, Qvain, PAS
 * Sending data: [Funet FileSender](https://filesender.funet.fi/)
 * Sensitive data: [SD services](https://research.csc.fi/sensitive-data-services-for-research)
 * [Research information hub](https://research.fi/en/)
