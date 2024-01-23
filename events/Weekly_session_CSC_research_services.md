@@ -24,7 +24,7 @@ Samantha Wittke, CSC (Geoinformatics specialist)
 # Field specific compute services
 
 * Bioinformatics data analysis tools: [Chipster](https://research.csc.fi/-/chipster) 
-* Computational modeling of physical phenomena: [Elmer](https://www.csc.fi/web/elmer)
+* Software for computational modeling of physical phenomena: [Elmer](https://www.csc.fi/web/elmer)
 
 # Services for teaching
 
