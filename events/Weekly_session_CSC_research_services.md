@@ -61,5 +61,6 @@ More info on [CSC website](https://research.csc.fi/free-of-charge-use-cases)
 Describe your usecase and ask for support via 
 
 * e-mail to servicedesk@csc.fi
-
 * in CSC user support session in Zoom every Wednesday at 14.00.
+
+Follow our [training calendar](https://www.csc.fi/training#training-calendar) for service specific trainings. 
