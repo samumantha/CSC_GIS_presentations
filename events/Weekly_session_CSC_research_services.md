@@ -26,6 +26,7 @@ Samantha Wittke, CSC (Geoinformatics specialist)
 * Bioinformatics data analysis tools: [Chipster](https://research.csc.fi/-/chipster) 
 * Software for computational modeling of physical phenomena: [Elmer](https://www.csc.fi/web/elmer)
 
+-> Short talk "Chipster - easy-to-use bioinformatics analysis software for single-cell, spatial and microbiome data etc." on 14.02.24
 
 # Data services
 
@@ -51,6 +52,8 @@ Samantha Wittke, CSC (Geoinformatics specialist)
   * Make use of supercomputers, e.g. [Jupyter for Courses](https://docs.csc.fi/computing/webinterface/jupyter-for-courses/)
   * Host own (executable) course webpage, or virtual machines in CSC cloud
   * Store course releated data in Allas
+ 
+ -> Short talk "CSC cloud services for education" on 07.02.24
 
 # Free of charge usecases
 
@@ -67,5 +70,7 @@ Describe your usecase and ask for support via
 
 * e-mail to servicedesk@csc.fi
 * in CSC user support session in Zoom every Wednesday at 14.00.
+
+-> Short talk "How to write a support request" on 31.01.24
 
 Follow our [training calendar](https://www.csc.fi/training#training-calendar) for service specific trainings. 
