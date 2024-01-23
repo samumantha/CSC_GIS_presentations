@@ -40,7 +40,7 @@ Samantha Wittke, CSC (Geoinformatics specialist)
 # Field specific data services 
 
 * Federated European Genome-phenome Archive: [FEGA](https://research.csc.fi/-/fega)
-* Language bank [Kielipankki](https://www.kielipankki.fi/language-bank/)
+* Language related datasets and tools [Kielipankki](https://www.kielipankki.fi/language-bank/)
 * Spatial data sharing and download: [Paituli](https://paituli.csc.fi/)
 
 
